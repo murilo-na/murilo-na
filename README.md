@@ -1,16 +1,48 @@
-## Hi there 👋
+<h3 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h3>
 
-<!--
-**murilo-na/murilo-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Murilo Neves</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code>Estudante de Engenharia de Software</code>&nbsp;·&nbsp;<code>Desenvolvedor em formação</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Sempre fui fascinado por tecnologia, mas ingressar na faculdade de Engenharia de Software ampliou ainda mais esse interesse. Atualmente, estou no 2º período e descobri que o que mais me motiva vai além de utilizar sistemas: gosto de entender como funcionam, desenvolver a lógica por trás deles e buscar soluções para diferentes problemas.
+</p>
+
+---
+
+<h2 align="center">📫 Contato</h2>
+
+<p align="center">
+  <a href="www.linkedin.com/in/murilonevess" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mneves05@outlook.com" title="mneves05@outlook.com">
+    <img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" height="48" alt="E-mail" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,postgres" alt="HTML, CSS, JavaScript, Python e PostgreSQL" />
+</p>
+
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=[USUARIO_GITHUB]&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USUARIO_GITHUB]&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais utilizadas" />
+</p>
+
+---
+
+<p align="center">💙 Obrigado por visitar o meu perfil!</p>
+
+
