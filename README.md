@@ -16,11 +16,11 @@ Sempre fui fascinado por tecnologia, mas ingressar na faculdade de Engenharia de
 
 <p align="center">
   <a href="www.linkedin.com/in/murilonevess" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mneves05@outlook.com" title="mneves05@outlook.com">
-    <img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" height="48" alt="E-mail" />
+    <img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" height="40" alt="E-mail" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Sempre fui fascinado por tecnologia, mas ingressar na faculdade de Engenharia de
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,postgres" alt="HTML, CSS, JavaScript, Python e PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,postgres" height="40" alt="HTML, CSS, JavaScript, Python e PostgreSQL" />
 </p>
 
 ---
