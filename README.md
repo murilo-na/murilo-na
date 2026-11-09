@@ -37,8 +37,9 @@ Sempre fui fascinado por tecnologia, mas ingressar na faculdade de Engenharia de
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=[USUARIO_GITHUB]&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USUARIO_GITHUB]&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais utilizadas" />
+  <img align="top" src="https://github-readme-stats-five-bay-7dsshf3tej.vercel.app/api?username=murilo-na&show_icons=true&include_all_commits=true&theme=github_dark&locale=pt-br" height="160" alt="Estatísticas do GitHub" />
+  
+  <img align="top" src="https://github-readme-stats-five-bay-7dsshf3tej.vercel.app/api/top-langs/?username=murilo-na&layout=compact&langs_count=8&theme=github_dark&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
