@@ -18,7 +18,7 @@ Sempre fui fascinado por tecnologia, mas ingressar na faculdade de Engenharia de
   <a href="https://www.linkedin.com/in/murilonevess" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:mneves05@outlook.com" title="mneves05@outlook.com">
     <img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" height="40" alt="E-mail" />
   </a>
