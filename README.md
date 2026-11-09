@@ -15,7 +15,7 @@ Sempre fui fascinado por tecnologia, mas ingressar na faculdade de Engenharia de
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
-  <a href=""https://www.linkedin.com/in/murilonevess" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/murilonevess" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
