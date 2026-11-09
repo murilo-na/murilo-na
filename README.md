@@ -18,7 +18,7 @@ Sempre fui fascinado por tecnologia, mas ingressar na faculdade de Engenharia de
   <a href="https://www.linkedin.com/in/murilonevess" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mneves05@outlook.com" title="mneves05@outlook.com">
     <img src="https://img.icons8.com/color/96/microsoft-outlook-2019--v2.png" height="40" alt="E-mail" />
   </a>
@@ -38,7 +38,7 @@ Sempre fui fascinado por tecnologia, mas ingressar na faculdade de Engenharia de
 
 <p align="center">
   <img align="top" src="https://github-readme-stats-five-bay-7dsshf3tej.vercel.app/api?username=murilo-na&show_icons=true&include_all_commits=true&theme=github_dark&locale=pt-br" height="160" alt="Estatísticas do GitHub" />
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="top" src="https://github-readme-stats-five-bay-7dsshf3tej.vercel.app/api/top-langs/?username=murilo-na&layout=compact&langs_count=8&theme=github_dark&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais utilizadas" />
 </p>
 
